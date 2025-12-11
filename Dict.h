@@ -6,6 +6,7 @@
 #define TRIE__DICT_H_
 
 #include <stdlib.h>
+#include <stdio.h>
 #include <string.h>
 
 #define LETTERS_COUNT 26
@@ -24,5 +25,5 @@ void deleteDict(Dict *dict);
 
 void addWordToDict(Dict *dict, const char *word, const char *definition);
 char *findWordInDict(Dict *dict, const char *word);
-
+void exportMMD(Dict *dict, const char *fileName);
 #endif //TRIE__DICT_H_
