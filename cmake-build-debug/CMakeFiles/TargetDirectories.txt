@@ -1,0 +1,3 @@
+C:/Users/jeana/CLionProjects/Trie/cmake-build-debug/CMakeFiles/Trie.dir
+C:/Users/jeana/CLionProjects/Trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jeana/CLionProjects/Trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
